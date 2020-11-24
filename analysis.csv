@@ -1,4 +1,4 @@
-S.NO,ENGLISH WORD,FRENCH WORD,Frequency_of_replaced,Time_taken_for_process,Memory_taken_for_process,Peek_Memory
+S.NO,ENGLISH WORD,FRENCH WORD,Frequency_of_replaced,Time_taken_for_process,Memory_taken_for_process
 1,abide,respecter,45,0.03059220314025879,5.4618
 2,about,sur,414,0.029262304306030273,5.484074
 3,above,au dessus,147,0.030327796936035156,5.467844
