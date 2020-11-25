@@ -16,11 +16,12 @@ What is the input?
 5. Find all words that in the replace words list that has a replacement in the dictionary
 6. Replace the words in the text file
 7. save the processed file
-   What is the expected output?
-8. Unique list of words that was replaced with French words from the dictionary
-9. Number of times a word was replace
-10. Frequency of each word replaced
-11. Accuracy of the replace in terms of all occurences, casing and special characters to be
+  
+What is the expected output?
+1. Unique list of words that was replaced with French words from the dictionary
+2. Number of times a word was replace
+3. Frequency of each word replaced
+4. Accuracy of the replace in terms of all occurences, casing and special characters to be
     maintained accurately
-12. Time taken to process
-13. Memory taken to process
+5. Time taken to process
+6. Memory taken to process
